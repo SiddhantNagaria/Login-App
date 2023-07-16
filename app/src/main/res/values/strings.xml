@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Authentication App</string>
+    <string name="msg_Login_Successful">Login Successful</string>
+    <string name="field_empty">Username and Password should not be empty</string>
+    <string name="err_invalid_credentials">This username and password is invalid</string>
+    <string name="first_name_err">Enter Proper First Name</string>
+    <string name="last_name_err">Enter Proper Last Name</string>
+    <string name="email_err">Enter proper Email</string>
+    <string name="phone_err">Enter Proper Phone Number</string>
+</resources>
